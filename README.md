@@ -29,7 +29,7 @@ Nama Sayur
 
 [Kode](https://kode.id/)
 
-![Facebook](/assets/images/foto.jpg)
+
 
 | **Nama** | **Email**                      | **Nilai** |
 | -------- | ------------------------------ | --------- |
